@@ -1,1 +1,1 @@
-# CIS566_RD_Lab
+# Lab06 - Reaction Diffusion
