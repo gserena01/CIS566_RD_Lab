@@ -14,3 +14,4 @@ Download and open Houdini with the ReactionDiffusionPlayground.hipc file found i
 Modify the shape, size, or placement of the seeds in the playground to create an interesting effect. Which node might you need to adjust? How can you change the exisitng VEX to create something interesting?
 
 # Task 2
+Modify some of the parameters to create a cool effect. This effect can be displayed with a video or image, depending on whether you want to showcase the animated effect or the algorithm's result.
