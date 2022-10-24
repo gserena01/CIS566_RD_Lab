@@ -69,3 +69,8 @@ Modify the shape, size, or placement of the seeds in the playground to create an
 
 # Task 2
 Modify some of the parameters to create a cool effect. This effect can be displayed with a video or image, depending on whether you want to showcase the animated effect or the algorithm's result.
+
+# Submission
+- Create a pull request to this repository
+- In the README, include the names of both of your team members
+- In the README, include images (or videos!) of your results AND the values for all the parameters you changed
