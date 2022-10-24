@@ -46,6 +46,23 @@ Frame 5
 Frame 100
 
 # Puzzle 3
+Modify the diffusion rate of chemical B (D_B) to create a simulation that still demonstrates where the seeds were at the start of the algorithm. There should be parts of concentric circles surrounding each seed location. To see if you're on the right track, run the simulation and then check (or have a friend check) and see if you can idenitfy where all the seeds were at the start of the algorithm!
+
+The other parameters will be as follows:
+
+D_A = 1
+
+feed_rate = 0.055
+
+kill_rate = 0.062
+
+delta_time = 1
+
+![image](https://user-images.githubusercontent.com/60444726/197626261-1e4fa5d4-d9d8-4563-8b92-c2b2a20038f7.png)
+Seed Placement
+
+![image](https://user-images.githubusercontent.com/60444726/197626365-9a91a0d6-1e6f-4b0f-838b-7047c153d860.png)
+Frame 100
 
 # Task 1
 Modify the shape, size, or placement of the seeds in the playground to create an interesting effect. Which node might you need to adjust? How can you change the exisitng VEX to create something interesting?
