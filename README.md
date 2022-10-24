@@ -1,10 +1,19 @@
 # Lab06 - Reaction Diffusion
-Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.**
+Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
 # Setup
 Download and open Houdini with the ReactionDiffusionPlayground.hipc file found in this repository.
 
 # Puzzle 1
+Modify the **feed rate** to create a cell mitosis (cellular division) affect.
+The other parameters will be as follows:
+D_A = 1
+D_B = 0.5
+kill_rate = 0.0608
+delta_time = 1
+
+![image](https://user-images.githubusercontent.com/60444726/197622415-ca9b9623-d01b-4e54-9b1a-b79109248cab.png)
+
 
 # Puzzle 2
 
